@@ -1133,6 +1133,11 @@ ul.start li span{
 	color:#777;
 	line-height: 2em;
 }
+.menu-right li{
+	font-size:1.15em;
+	color:#777;
+	line-height: 2em;
+}
 .menu-left label {
     display: block;
     margin: 0.4em 0;
@@ -1958,7 +1963,20 @@ td.add-check a {
 }
 }
 
-/* #news-fb {
-    width: 100%;
-    height: 100%;
-} */
+#menu-list {
+    margin-top: 20px;
+    margin-left: 25px;
+}
+
+#menu-dinner {
+    margin-top: 40px;
+}
+
+#menu-img {
+    text-align: center;
+}
+#menu-img img {
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 50px;
+}
